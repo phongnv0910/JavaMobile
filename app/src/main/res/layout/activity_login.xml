@@ -39,4 +39,11 @@
         android:text="Login"
         android:padding="12dp" /> <!-- Add padding to the Button -->
 
+    <Button
+        android:id="@+id/buttonLab1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Go to Lab1"
+        android:padding="12dp"/>
+
 </LinearLayout>
